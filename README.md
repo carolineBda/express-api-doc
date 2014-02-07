@@ -1,4 +1,4 @@
-express-swagger-spec
+express-api-doc
 ====================
 
-Generate from the app's routes a basic swagger spec
+Generate html page listing all routes in the app
